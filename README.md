@@ -107,3 +107,5 @@ This code implements a simple 2D maze game using the Pygame library. Here's a br
     pygame.quit()
     sys.exit()
     
+## Contact
+  avrmicrotech@gmail.com
