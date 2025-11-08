@@ -106,6 +106,29 @@ This code implements a simple 2D maze game using the Pygame library. Here's a br
     
     pygame.quit()
     sys.exit()
-    
+  
+---
+
+
+## 🚀 How to Play
+1. Install [Pygame](https://www.pygame.org/) with:  
+   ```bash
+   pip install pygame
+   ```
+2. Run the script:  
+   ```bash
+   python maze_game.py
+   ```
+3. Use the **arrow keys** to move the player through the maze.  
+4. Reach the **green square** to win.  
+
+---
+
+## 🎯 Goals
+- Practice **Pygame basics** (drawing, events, game loop).  
+- Demonstrate **grid‑based movement** in a maze.  
+- Provide a foundation for expanding into more advanced maze or puzzle games.  
+
+
 ## Contact
   avrmicrotech@gmail.com
